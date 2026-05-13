@@ -2,6 +2,8 @@
 
 > A real-time multi-agent simulation where AI personas trapped in corporate meetings attempt to decide on a tiny product feature while exhibiting all the dysfunctions of modern tech organizations.
 
+<img width="1180" height="720" alt="How this works" src="https://github.com/user-attachments/assets/6a05e6e3-0141-45c9-a31b-656d30e4e511" />
+
 ## Table of Contents
 
 - [Features](#features)
